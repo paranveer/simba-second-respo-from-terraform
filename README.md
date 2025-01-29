@@ -1,2 +1,2 @@
-# simba-second-respo-from-terraform
+# simba-second-respo-from-terraform-locally
 created second repository using terraform
